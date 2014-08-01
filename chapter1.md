@@ -3,5 +3,5 @@ Chapter1 手机的发展历史
 ====================
 二战刚刚结束，贝尔实验室的科学家在1947年率先提出了手机的概念，1973年4月3日摩托罗拉公司前高管马蒂．库珀在曼哈顿的试验网络上测试了他的一台电话，他把电话打给了竞争对手──贝尔实验室的一名科学家。这种电话勉强算是便携式的，它重约 1.13 公斤，靠电池运转，体积庞大，用它总共可以通话十分钟。 <br/>
 1983年10月13日，Ameritech 公司的高管鲍伯-巴内特把车停在了芝加哥Soldier Field 体育场外，拨通了美国有史以来第一个商用手机电话，它的型号为DynaTAC 8000X是由摩托罗拉生产的，重2磅，通话时间半小时，销售价格为3995美元，是名副其实的最贵重的砖头，这也就是我们常说的“大哥大”的雏形。<br/>
-![image]（https://github.com/GaoHuijian/AndroidMobileUseGuide/blob/master/images/chapter1/dageda.jpg "dageda"）
+![image]（/images/chapter1/dageda.jpg "dageda"）
 
