@@ -71,4 +71,35 @@ GSM手机时代，亦可称为第二代移动通信，简称2G，当然这是中
 ![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image12_1.jpeg "三星SGH-M188")
 而西门子的6688是第一款整合Mp3功能并带有移动存储器的手机，他不单单支持Mp3播放功能，并且还具有MMC卡扩展功能，还能够连续录制5个小时的语音备忘，同时还具有声控命令和声控指令。
 ![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image12_2.jpeg "西门子6688")
+
 飞利浦的9系列的推出，使得超长待机称为手机的另外一个卖点。
+2001年
+-----
+2001年爱立信推出第一款彩屏手机T68，该机采用了一块256色的彩色屏幕。这也是爱立信推出的最后一款手机，之后手机生产商格局出现一些变化，诺基亚、摩托罗拉眼睁睁看着自己的竞争对手爱立信和日本巨头索尼合作之后的华丽变身，这个品牌叫做索爱，它的主要产品开始更多为消费者为出发点，有很多突破。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image13.jpeg "T68")
+
+诺基亚也是用于创新的，9系列在当时看起来是科幻级别的产品，随身携带的小电脑，它的风头盖过摩托罗拉的A6288。
+2002年
+-----
+2002年，智能手机的操作系统大战拉开序幕，重量级选手是具有革命性的诺基亚7650,7650的强大不仅仅在于操作系统，还在于它拥有了摄像头，这对于手机来说简直是个梦，再加上彩屏、滑盖，这些后来都成为智能手机的标准配置。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image14.jpeg "7650")
+
+多普达推出了686，标志着WM(Windows Mobile)系统正式登陆手机。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image15.jpeg "多普达")
+
+
+许多PDA(个人数字助理)厂商进入手机市场。Palm推出的Palm Handspring Treo 180已经具有了现在商务手机的雏形。
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image16.jpeg "Palm 180")
+
+
+2003年
+-----
+当智能、彩屏等元素出现在手机上之后，手机进入了一个发展方向不明的时代，诺基亚在这一年推出了大量奇形怪状的机器，也是在寻找手机的卖点所在。诺基亚1100是有史以来卖得最多的机器之一，从功能上看1100并没有什么过人之处，但是稳定、简单、低价满足了大多数人的需求，这代表了简单通话手机的发展方向，这是与传统手机与后来多媒体手机的分水岭。
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image17.jpeg "诺基亚1100")
+
+诺基亚3300则是试图融合移动移动游戏机的开始。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image17_1.jpeg "诺基亚3300")
