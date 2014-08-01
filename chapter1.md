@@ -103,3 +103,133 @@ GSM手机时代，亦可称为第二代移动通信，简称2G，当然这是中
 诺基亚3300则是试图融合移动移动游戏机的开始。
 
 ![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image17_1.jpeg "诺基亚3300")
+
+多普达在2002年的成功之后，推出了515，一款数字键盘的WM(Windows Mobile)智能手机，这意味着WM对移动领域的全面进军。从此触摸屏和数字键盘两种机型成为WM的标准，延续了多年。
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image18.jpeg "多普达515")
+
+2003年黑莓推出了第一款加密通讯的智能手机6230，纵向全键盘设计，与电子邮件和互联网的融合，高强度的加密技术适应了互联网商业时代的需求，RIM也在未来几年迅速崛起为手机市场巨头之一。
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image19.jpeg "黑莓6230")
+
+2004年
+-----
+之前手机尽管有了多媒体元素，但是还是不能代替其他多媒体便携设备，而2004年，日系的多媒体浪潮引领了新的潮流。日系凭借在液晶技术上的优势，直接吧高端液晶显示器的效果带到了手机上，26万色、QVGA规格、IPS屏幕，这些技术和规格沿用至今。和屏幕一样，日系在数码相机上的优势也成功延伸到手机上面，从10万像素一下子进化到130像素，效果媲美同像素数码相机的水平。
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image20.jpeg "NEC手机") 
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image21.jpeg "索爱手机")
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image22.jpeg "") 
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image23.jpeg "")
+
+ 2004年摩托罗拉推出了几款成功的Linux机型，这也是摩托罗拉自主操作系统的开始。这意味着智能手机呈现了**多普达为代表的WM系、NOKIA为代表的塞班系和摩托罗拉为代表的LINUX三个系统**的形成。2004年摩托罗拉最具亮点是“刀锋”手机V3，它一上市立刻成为席卷整个行业的明显，拥有无可匹敌的超薄金属机身，彻底颠覆了人们对于折叠手机的观念。其他厂商后来也有一些相关尝试，但都无法达到V3的高度。但是V3的成功反过来也制约了随后的产品研发，让摩托罗拉开始专注与产品的时尚设计，但是这条路并非正路，之后两三年摩托罗拉开始进入低谷乃至泥潭深陷。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image24.jpeg "摩托罗拉V3")
+
+2004年手机操作系统的另一大手笔palm终于登场，纵向全键盘的输入让人耳目一新，后来也发展成一系列机型。
+
+2005年
+-----
+诺基亚N系列手机在这一年闪亮登场，第一款是诺基亚N90，比QVGA分辨率更高的屏幕，200万卡尔蔡司认证的摄像头，再加上塞班系统的优势，这款手机收到了很多商务人士的喜爱，在当时可以说没有竞争对手可以和它相提并论，成为一代机王。
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image25.jpeg "诺基亚N90")
+
+提到多媒体功能，就不得不提索爱了。作为发明了随身听的索尼公司，推出了音乐手机：索爱Walkman系列，它为我们的耳朵带来了更美好的音乐，而且在不断进步。索尼W800C就是其中的一款典范之作。继Mp3之后，数码相机也迎来了手机的挑战，K750C是第一款可以挑战便携数码相机的手机产品。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image26.jpeg "W800C")
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image27.jpeg "索爱")
+
+但是2005年GSM大会的最佳手机不是日系的音乐、拍照机，而是三星的滑盖花瓶机D508，这款功能平平无奇，靠设计、外观、做工取胜的手机让三星获益巨大，也掀起了一次滑盖浪潮。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image28.jpeg "三星D508")
+2006年
+-----
+从黑莓和palm推出纵向全键盘机取得成功后，诺基亚及时把这个思想引入到E61身上，塞班系统搭配全键盘同样具有很好的输入体验，这一系列机型在后来诺基亚不景气的时候成为救命稻草。继1100后，N系列中低端型号凭借着性价比吸引了大量用户，粉色系列更是吸引了众多女性用户，加上高端的拍照手机N93、低端的音乐手机5200，诺基亚终于从日系多媒体手机的压制中站了起来，迎来一个新的高峰。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image29.jpeg "E61")
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image30.jpeg "N93")
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image31.jpeg "5200")
+
+三星在2005年的D508取得巨大成功之后，一口气推出了数以十计的类似滑盖机型，一个成功产品，就短时间用机海战术把销量扩到最大，做烂为止。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image32.jpeg "")
+
+索爱当然也不会浪费成功产品的经验，2006年，索爱推出了多款音乐手机和拍照手机，把W和K两个型号做烂为止。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image35.jpeg "")
+
+同样做法的还有摩托罗拉，前面热卖的“刀锋”系列，也是做烂为止。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image36.jpeg "")
+
+在开发老产品剩余价值的同时，摩托罗拉没有停止开发的脚步。A1200是摩托几年来最成功的机型之一，自主研发的Linux系统，配上主流的屏幕、摄像头、人性化设计，使得这款手机成为经典。
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image37.jpeg "摩托罗拉A1200")
+2007年
+------
+时间到了2007年，手机经过多年的发展，已经基本成型，各个生产商基本确定了自己的风格。在iPhone带来革命性冲激之前，大家在各自的市场驰骋。同时大家又互相兼容并收，一个品牌的成功经验立刻被复制到另外一个品牌，你超薄我也超薄，你智能我也智能，你拍照我也拍照。
+
+诺基亚的N95是2007年的明星之作，在各种功能手机大行其道时，诺基亚把音乐、拍照、智能、互联网、蓝牙等多种功能融为一体，更主要的是GPS导航功能的加入，N95有当时一流的音乐效果、一流的拍照效果、一流的互联网体验，集各种功能之大成。这也是塞班系统和诺基亚最辉煌的时刻。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image38.jpeg "诺基亚N95")
+
+2007年的革命来自苹果，这家具有传奇色彩的电脑公司，在Mp3市场取得巨大成功后，把手伸向了手机市场。600MHz的arm11处理器，3.5存真彩电容屏幕，比市面竞争对手先进5年的操作系统，带来的体验是革命性的。iPhone的出现颠覆了整个手机市场，手机进入了一个新时代。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image39.jpeg "苹果iPhone2G")
+
+iPhone的发布带来了触摸屏的浪潮，HTC是第一个模仿者，尽管今天看来S1的硬件配置和软件都无法跟iPhone相比，但是第一个模仿者还是取得很好的销量，也为后面打下了基础。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image40.jpeg "HTC")
+
+三星的G608是自D508之后滑盖功能手机的终极之作，之后就转到塞班智能的G8xx系列。这款手机意味着三星的手机摄像头技术终于赶上了索爱和诺基亚，在屏幕上面也达到了日系的水平，这为后来三星智能手机的赶超打下了伏笔
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image41.jpeg "三星")
+
+索爱的K858C宣告着从K750C开始的辉煌系列到2007年为止，此后500万摄像头成了很长一段时间的标配，没有进一步发展。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image42.jpeg "索爱")
+
+摩托罗拉整个2007年没有创新的机器，还在吃前两年的老本，危机近在眼前。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image43.jpeg "摩托罗拉")
+2008年
+-----
+2008年的诺基亚如同2007年的摩托一样乏善可陈。在iPhone来袭时，最需要学习与创新的年代，诺基亚选择了不作为，诺基亚5800是诺基亚首款采用全触屏的塞班智能手机，但是事实证明塞班系统并不适合触摸屏操作，未能提供很好的用户体验。后续的N系列和E系列产品仅仅是换换壳子，在2000年，这还没问题，而在iPhone出现后的2008年，这意味着诺基亚衰落的开始。
+
+与诺基亚的麻木不仁截然相反，三星对iPhone做出了迅速的跟进，经过F系列的几次试水，三星及时推出了I900，在当时没有其他系统可用的情况下，三星使用了WM系统，同时把自己在屏幕、摄像头等多媒体上的优势发挥出来，500万摄像头超过了iPhone，几年后三星的发展都是靠硬件优势开路。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image44.jpeg "三星")
+
+
+索爱的反应没有三星那么强烈，X1的思路不错，但是没有三星那么彻底，所以索爱后来的日子也在中游徘徊。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image45.jpeg "索爱")
+
+和三星同样反应迅速的是HTC，因为智能手机市场的重叠，iPhone对HTC的威胁之大前所未有，在糟糕的WM系统上，HTC不懈努力开发了Diamond和HD，把界面做地美轮美奂，虽然不及iPhone，但是同样收到市场积极的回应。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image46.jpeg "HTC")
+
+iPhone第二代iPhone 3G在硬件上并没有做太大改革，仅仅是支持了3G，升级了摄像头，较少了厚度。但更为重要的是，和iPhone同时出现的iPhone2.0固件带来了App Store软件商店，这一点在之后被证明是iPhone最大的提升。App Store不仅成为iPhone的一大优势所在，也开创了全新的商业模式，为其他厂商所效仿。毋庸置疑，iPhone 3G是一款更为出色的产品，销量证明了这一点：上市仅三天，iPhone 3G就售出了100万部（上一代iPhone达到用了74天卖出100万部），这一记录至今尚未被打破。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image47.jpeg "iphone3G")
+
+在苹果之后，Google推出了同样强大的操作系统：Android，并且门户开放， 2008年最具有革命性的手机是G1，它是第一款使用Android操作。所有人都认识到了Android的巨大潜力。此后Android操作系统得到越来越多的支持，成为目前看来仅有的对iPhone形成冲击的智能手机平台。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image48.jpeg "G1")
+
+触摸屏浪潮也波及商务的黑莓，9500放弃了全键盘，试图在保持自己商业优势的基础上增加时尚元素，可惜并不成功。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image49.jpeg "黑莓9500")
+
+2009年至今
+--------
+iPhone以每年一台的速度不紧不慢地发布着新一代的产品，每一代都有所创新，每一代都销量不俗，仿佛在嘲笑着其他品牌无力的追赶，的确领先5年的差距不是其他厂商能够一蹴而就的，更何况，苹果并没有止步不前，每一次的发布会总能让人惊叹那鬼斧神工般的创造力。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image50.jpeg "黑莓9500")
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image51.jpeg "黑莓9500")
+
+根据市场调研公司IDC在2011年5月6日发布数据称，今年第一季度，苹果在全球智能手机市场的份额持续攀升。IDC在报告中指出，苹果第一季度在智能手机市场的份额已达到18.7%，高于上一季度的16.1%。在苹果市场份额上涨的同时，作为全球智能手机市场的龙头，诺基亚的份额却在持续下滑。诺基亚第一季度的市场份额为24.3%，低于上一季度的28%。
+2011年2月11日，诺基亚与微软宣布建立战略合作伙伴关系，诺基亚将生产Windows Phone 7手机。这是面临危机企业的一次新的组合，但是业界呼声普遍看衰，消息一公布诺基亚股价暴跌近14%可见一斑。诺基亚革新之路漫漫修远兮。
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image52.jpeg "黑莓9500")
+
+ 苹果每一代的提升，都使得苹果在智能手机市场更加“独孤求败”。老迈的WM、塞班系统亟待改变，目前只有Android可以对iPhone形成威胁。目前比较有代表性的有三星的Galaxy系列、HTC的G系列、摩托罗拉的ME、XT系列、索爱的X系列，同时Google自己也推出一款Nexus One。按操作系统划分，Android今年第一季度的市场份额已达到35%，前途很被看好。
+
+最近刚看到的消息，诺基亚在6月21日发布了一款新的手机N9，搭载MeeGo操作系统，从网上的评测视频来看，系统的流畅度和性能都还不错，一体式的机身设计也蛮漂亮，从反响来看，这是一款不错的机子。后面诺基亚将转向Windows Phone，能否保住智能手机的王者地位，我们拭目以待。
