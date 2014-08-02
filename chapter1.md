@@ -217,7 +217,7 @@ iPhone第二代iPhone 3G在硬件上并没有做太大改革，仅仅是支持�
 
 ![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image49.jpeg "黑莓9500")
 
-2009年至今
+2009年
 --------
 iPhone以每年一台的速度不紧不慢地发布着新一代的产品，每一代都有所创新，每一代都销量不俗，仿佛在嘲笑着其他品牌无力的追赶，的确领先5年的差距不是其他厂商能够一蹴而就的，更何况，苹果并没有止步不前，每一次的发布会总能让人惊叹那鬼斧神工般的创造力。
 
