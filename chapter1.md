@@ -217,11 +217,76 @@ iPhone第二代iPhone 3G在硬件上并没有做太大改革，仅仅是支持�
 
 ![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image49.jpeg "黑莓9500")
 
-2009年
+2009年至2014
 --------
-iPhone以每年一台的速度不紧不慢地发布着新一代的产品，每一代都有所创新，每一代都销量不俗，仿佛在嘲笑着其他品牌无力的追赶，的确领先5年的差距不是其他厂商能够一蹴而就的，更何况，苹果并没有止步不前，每一次的发布会总能让人惊叹那鬼斧神工般的创造力。
+iPhone以每年一台的速度不紧不慢地发布着新一代的产品Iphone 3GS，每一代都有所创新，每一代都销量不俗，仿佛在嘲笑着其他品牌无力的追赶，的确领先5年的差距不是其他厂商能够一蹴而就的，更何况，苹果并没有止步不前，每一次的发布会总能让人惊叹那鬼斧神工般的创造力。
 
-![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image50.jpeg "")
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image50.jpeg "Iphone 3Gs")
 
-![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image51.jpeg "黑莓9500")
+可以看到这5年是智能手机发展最快的时刻，各大手机厂商不断推陈出新，软件硬件发展迅速，速度更快，屏幕更大，功能更多，手感更好，更智能。下面是主要手机厂商和手机产品。
+--------------------------------
+<br>
+苹果
+----------------
+2010-6-7 	苹果发布了iPhone4
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/Iphone4.jpg "Iphone 4")
+
+
+2011-10-4	苹果发布了iPhone4S
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/Iphone4S.jpg "Iphone 4s")
+
+2012-9-12	苹果发布了iPhone5
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/Iphone5.jpg "Iphone 5")
+
+2013-9-10	苹果发布了iPhone5C/iphone5S
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/Iphone5s.png "Iphone 5S")
+
+2014-9		苹果将发布iPhone6
+
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/Iphone6.jpeg "Iphone 6")
+
+诺基亚
+=======
+诺基亚随着苹果手机和安卓系统的发展，诺基亚的塞班系统、以及与Intel合作研发的Mego系统，越来越边缘化。<br>
+
+2011年2月11日下午，诺基亚正式宣布与微软达成全球战略合作伙伴关系，双方将会在智能手机领域进行深度合作。微软全新推出的Windows Phone 7系统将会成为诺基亚的主要手机操作系统。
+
+2013年9月3日，微软宣布，将以72亿美元收购诺基亚手机业务，以及大批专利组合的授权。微软将以37.9亿欧元收购诺基亚的设备与服务部门，同时以16.5亿欧元购买其10年。
+
+2013年10月诺基亚宣布，他们将在2014年1月1日正式停止向MeeGo和塞班两款操作系统提供支持。
+
+2014年1月1日，诺基亚正式停止Nokia Store应用商店内的塞班和MeeGo应用的更新，也禁止开发人员发布新应用。
+
+诺基亚发布的一系列机型
+--------------------
+2009年 	诺基亚5530、5230、N97Min
+
+2010年  旗舰手机N8、C5-03、5233、E72i、5800、C5、C6、C7
+
+2011年	旗舰手机N9、首部搭载WP7.5系统的Lumia 800
+
+2012年	Lumia820、Lumia900、Lumia920
+
+2013年	Lumia1520、Lumia1320、Lumia925、Lumia1020、Lumia520、Lumia525、Lumia526、Lumia929
+
+2014年	Lumia638、Lumia630、Lumia930 以及 搭载android系统的X、X2、XL
+
+国内厂商
+--------
+国内各大厂商在android和WP系统的东风下也大力发展智能手机。号称“中华酷联”的**中兴、华为、酷派、联想**，以及**魅族**、**HTC**、 近几年发展起来的的”为发烧而生“的**小米**，而且一些互联网公司也与硬件厂商合作推出自己品牌的手机。例如360特供机，美图手机，甚至一些传统的电脑厂商也做起了智能手机，如：神舟、宏基、华硕等等，
+
+
+国外著名手机厂商
+-------------
+韩国：三星、LG、泛泰
+
+日本：索尼，松下，夏普，富士通，京瓷，nec，先锋，建伍，东芝，日立，爱华索尼爱立信、NEC、松下、三菱、三洋，东芝、日立
+
+美国：摩托罗拉
+
+北欧：
 
