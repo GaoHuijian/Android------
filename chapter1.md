@@ -221,15 +221,7 @@ iPhone第二代iPhone 3G在硬件上并没有做太大改革，仅仅是支持�
 --------
 iPhone以每年一台的速度不紧不慢地发布着新一代的产品，每一代都有所创新，每一代都销量不俗，仿佛在嘲笑着其他品牌无力的追赶，的确领先5年的差距不是其他厂商能够一蹴而就的，更何况，苹果并没有止步不前，每一次的发布会总能让人惊叹那鬼斧神工般的创造力。
 
-![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image50.jpeg "黑莓9500")
+![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image50.jpeg "")
 
 ![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image51.jpeg "黑莓9500")
 
-根据市场调研公司IDC在2011年5月6日发布数据称，今年第一季度，苹果在全球智能手机市场的份额持续攀升。IDC在报告中指出，苹果第一季度在智能手机市场的份额已达到18.7%，高于上一季度的16.1%。在苹果市场份额上涨的同时，作为全球智能手机市场的龙头，诺基亚的份额却在持续下滑。诺基亚第一季度的市场份额为24.3%，低于上一季度的28%。
-2011年2月11日，诺基亚与微软宣布建立战略合作伙伴关系，诺基亚将生产Windows Phone 7手机。这是面临危机企业的一次新的组合，但是业界呼声普遍看衰，消息一公布诺基亚股价暴跌近14%可见一斑。诺基亚革新之路漫漫修远兮。
-
-![image]( https://raw.githubusercontent.com/GaoHuijian/AndroidMobileUseGuide/master/images/chapter1/image52.jpeg "黑莓9500")
-
- 苹果每一代的提升，都使得苹果在智能手机市场更加“独孤求败”。老迈的WM、塞班系统亟待改变，目前只有Android可以对iPhone形成威胁。目前比较有代表性的有三星的Galaxy系列、HTC的G系列、摩托罗拉的ME、XT系列、索爱的X系列，同时Google自己也推出一款Nexus One。按操作系统划分，Android今年第一季度的市场份额已达到35%，前途很被看好。
-
-最近刚看到的消息，诺基亚在6月21日发布了一款新的手机N9，搭载MeeGo操作系统，从网上的评测视频来看，系统的流畅度和性能都还不错，一体式的机身设计也蛮漂亮，从反响来看，这是一款不错的机子。后面诺基亚将转向Windows Phone，能否保住智能手机的王者地位，我们拭目以待。
